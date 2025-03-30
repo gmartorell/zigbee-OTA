@@ -6387,6 +6387,7 @@
   {
     "fileName": "1718263020-oem_zg_tl8258_plug_OTA_1.1.0.bin",
     "fileVersion": 80,
+    "force": true,
     "fileSize": 310402,
     "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Telink/1718263020-oem_zg_tl8258_plug_OTA_1.1.0.bin",
     "imageType": 54179,
